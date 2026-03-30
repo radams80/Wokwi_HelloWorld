@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Users\robert.adams\no_std-training\intro\hello-world\target\riscv32imc-unknown-none-elf\release\build\esp32c3-2d9bc273f0c2c2af\out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

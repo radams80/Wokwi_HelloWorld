@@ -1,0 +1,10 @@
+C:\Users\robert.adams\no_std-training\intro\hello-world\target\riscv32imc-unknown-none-elf\release\deps\rand_core-c9c2d4059ffb903b.d: C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs
+
+C:\Users\robert.adams\no_std-training\intro\hello-world\target\riscv32imc-unknown-none-elf\release\deps\librand_core-c9c2d4059ffb903b.rlib: C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs
+
+C:\Users\robert.adams\no_std-training\intro\hello-world\target\riscv32imc-unknown-none-elf\release\deps\librand_core-c9c2d4059ffb903b.rmeta: C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs
+
+C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs:
+C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs:
+C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs:
+C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs:

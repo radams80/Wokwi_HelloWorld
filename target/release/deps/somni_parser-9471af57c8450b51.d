@@ -1,0 +1,10 @@
+C:\Users\robert.adams\no_std-training\intro\hello-world\target\release\deps\somni_parser-9471af57c8450b51.d: C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\lib.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\ast.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\lexer.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\parser.rs
+
+C:\Users\robert.adams\no_std-training\intro\hello-world\target\release\deps\libsomni_parser-9471af57c8450b51.rlib: C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\lib.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\ast.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\lexer.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\parser.rs
+
+C:\Users\robert.adams\no_std-training\intro\hello-world\target\release\deps\libsomni_parser-9471af57c8450b51.rmeta: C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\lib.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\ast.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\lexer.rs C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\parser.rs
+
+C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\lib.rs:
+C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\ast.rs:
+C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\lexer.rs:
+C:\Users\robert.adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\somni-parser-0.2.0\src\parser.rs:
